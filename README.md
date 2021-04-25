@@ -11,3 +11,6 @@ Ili možete kreirati novi:
         conda env create
  3. I onda bi u conda navigatoru trebali moći odabrat taj environment
     ![Environment selection](/assets/env-sel.png)
+
+## Spacy
+[Ovdje](https://spacy.io/usage) su upute za osposobljavanje spacyja (ako ćemo ga koristit)
