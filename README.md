@@ -1,7 +1,7 @@
 # Bullying-Traces-Recognition
 Bullying traces project for Text Analysis and Retrieval course at FER.
 
-##Anconda
+## Anconda
 Mislio sam da prek anaconde ovo sve radimo pa unutar toga koristimo jupyter i ostalo.
 Nadam se da neće bit komplikacija. Može se radit u base environmentu to bi trebali imat čim instalirate anacondu.
 Ili možete kreirati novi:
