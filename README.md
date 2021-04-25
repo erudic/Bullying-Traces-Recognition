@@ -7,6 +7,7 @@ Nadam se da neće bit komplikacija. Može se radit u base environmentu to bi tre
 Ili možete kreirati novi:
  1. Pozicionirat se u klonirani direktorij
  2. Puknut komandu
-	conda env create
+
+        conda env create
  3. I onda bi u conda navigatoru trebali moći odabrat taj environment
     ![Environment selection](/assets/env-sel.png)
