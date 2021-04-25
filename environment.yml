@@ -1,0 +1,6 @@
+name: bullying
+dependencies:
+ - numpy
+ - pandas
+ - matplotlib
+ - spacy
