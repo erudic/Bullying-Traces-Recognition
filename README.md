@@ -14,3 +14,6 @@ Ili možete kreirati novi:
 
 ## Spacy
 [Ovdje](https://spacy.io/usage) su upute za osposobljavanje spacyja (ako ćemo ga koristit)
+
+### Radovi
+- [Tweet2Vec] (https://lsm.media.mit.edu/papers/tweet2vec_vvr.pdf)
